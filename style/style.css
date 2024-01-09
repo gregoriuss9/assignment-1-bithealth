@@ -1,0 +1,18 @@
+body{
+    background-color: whitesmoke;
+}
+
+.row-navbar{
+    background-color: white;
+}
+
+.row .container{
+    /* background-color: white; */
+    max-width: 1200px;
+    border: 1px solid;
+    padding: 0;
+}
+
+.navbar-nav .nav-link:hover{
+    background-color: darksalmon;
+}
