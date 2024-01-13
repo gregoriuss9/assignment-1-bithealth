@@ -6,6 +6,11 @@ body{
     background-color: white;
 }
 
+.container-full a:hover{
+    background-color: slateblue;
+    color: white;
+}
+
 .container-sm.container-md.p-3.my-4{
     background-color: white;
 }
